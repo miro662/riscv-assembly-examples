@@ -7,3 +7,4 @@ main.o: main.S
 .PHONY: clean
 clean:
 	rm main.elf main.o
+

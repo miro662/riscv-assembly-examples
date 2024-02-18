@@ -19,3 +19,4 @@ _start:
 .section .data
 	message: .ascii "Hello, world!\n"
 	message_end: 
+
